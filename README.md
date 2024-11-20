@@ -1,1 +1,3 @@
-# exito_academico_analytics
+# exito_academico
+
+Proyecto Integrador - analitica y ciencia de datos
